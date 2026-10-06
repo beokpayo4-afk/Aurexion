@@ -1,0 +1,1 @@
+import{j as a}from"./react-WwGGi0sC.js";import{u as n,m as r}from"./motion-CIrau5JE.js";function u({children:e,className:i,delay:t=0}){const o=n();return a.jsx(r.div,{className:i,initial:o?!1:{opacity:0,y:8},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:"0px 0px -40px 0px"},transition:{duration:.28,delay:Math.min(t,.12),ease:"easeOut"},children:e})}export{u as R};

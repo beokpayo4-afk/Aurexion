@@ -1,0 +1,1 @@
+import{o as a,s as e}from"./types-A6C9xkiL.js";const s=a({email:e().email("Enter a valid email."),password:e().min(8,"Password must be at least 8 characters.")}),t=s.extend({fullName:e().min(2,"Enter your name.")});export{s as l,t as r};

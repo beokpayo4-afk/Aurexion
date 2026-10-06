@@ -1,0 +1,1 @@
+import{j as t}from"./react-WwGGi0sC.js";import{S as n}from"./ServiceEnquiryForm-Cm1lTsnr.js";function a({serviceId:e,defaultMessage:r="",submitLabel:o="Send project enquiry"}){return t.jsx(n,{serviceId:e,defaultMessage:r,submitLabel:o,messageLabel:"Project",successDetail:"The project enquiry has been recorded. It does not take payment."})}export{a as T};

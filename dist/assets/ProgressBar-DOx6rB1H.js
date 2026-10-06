@@ -1,0 +1,1 @@
+import{j as r}from"./react-WwGGi0sC.js";function i({value:e}){const a=Math.max(0,Math.min(100,Math.round(e)));return r.jsx("div",{className:"h-2 overflow-hidden rounded-full bg-line",role:"progressbar","aria-valuenow":a,"aria-valuemin":0,"aria-valuemax":100,children:r.jsx("div",{className:"h-2 rounded-full bg-champagne",style:{width:`${a}%`}})})}export{i as P};

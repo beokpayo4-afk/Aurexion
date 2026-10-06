@@ -1,0 +1,1 @@
+import{j as s}from"./react-WwGGi0sC.js";function t({activities:e}){return s.jsx("ul",{className:"grid gap-x-10 sm:grid-cols-2",children:e.map(r=>s.jsx("li",{className:"border-t border-line py-3 text-sm leading-6 text-ink/80",children:r},r))})}export{t as A};
