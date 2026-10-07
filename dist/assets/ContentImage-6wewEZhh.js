@@ -1,1 +1,0 @@
-import{j as r}from"./react-WwGGi0sC.js";function g({src:n,alt:o,className:t,width:a,height:i,priority:e=!1}){return r.jsx("img",{src:n,alt:o,width:a,height:i,className:t,decoding:"async",loading:e?"eager":"lazy",fetchPriority:e?"high":void 0})}export{g as C};
